@@ -369,3 +369,8 @@ iframe{
     width: 70%;
     height: 500px;
 }
+
+.youtube{
+    display: block;
+    margin: 0 auto;
+}
