@@ -281,6 +281,10 @@ footer {
     .paragraph-container {
         margin-top: 20px;
     }
+
+    .youtube{
+        height: 300px;
+    }
 }
 
 @media screen and (min-width: 1125px) {
