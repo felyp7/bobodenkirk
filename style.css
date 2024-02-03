@@ -187,6 +187,7 @@ footer {
     }
 
     .youtube{
+        padding-top: 20px;
         width: 100%;
         height: 250px;
     }
@@ -288,6 +289,7 @@ footer {
     }
 
     .youtube{
+        padding-top: 20px;
         height: 500px;
     }
 }
