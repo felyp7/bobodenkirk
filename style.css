@@ -61,7 +61,7 @@ body {
     margin: 1%;
     justify-content: right;
     display: flex;
-    background-color: #f7ee08;
+    background-color: yellow;
     font-family: Roboto;
 }
 
@@ -97,7 +97,6 @@ footer {
     font-size: 20px;
     margin: 1.1%;
 }
-
 
 
 @media screen and (max-width: 450px) {
@@ -355,4 +354,18 @@ footer {
 
 .slider-nav a:hover {
 	opacity: 1;
+}
+
+form{
+    text-align: center;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+}
+
+iframe{
+    display: block;
+    margin: 0 auto;
+    width: 70%;
+    height: 500px;
 }
