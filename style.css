@@ -286,6 +286,7 @@ footer {
 @media screen and (min-width: 1125px) {
     .youtube{
         width: 50%;
+        height: 800px;
     }
 }
 
