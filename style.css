@@ -133,6 +133,10 @@ footer {
         padding: 10px;
     }
 
+    .header-large h1{
+        font-size: 50px;
+    }
+
     .hamburger{
         display: block;
     }
