@@ -5,15 +5,26 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     overflow-x: hidden;
-}
+}   
 
 @font-face {
     font-family: Roboto;
     src: url(fonts/Roboto-Medium.ttf);
 }
 
+@font-face {
+    font-family: Script;
+    src: url(fonts/script1-script-casual-normal.ttf);
+}
+
+@font-face {
+    font-family: DancingScript;
+    src: url(fonts/DancingScript-Regular.otf);
+}
+
 .header-large h1 {
-    font-size: 250%;
+    font-family: DancingScript;
+    font-size: 400%;
     margin: auto;
 }
 
