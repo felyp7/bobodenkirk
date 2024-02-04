@@ -232,6 +232,11 @@ footer {
         border: none !important;
     }
     
+    .sekce h1{
+        width: 80%;
+        margin: 0 auto;
+    }
+
     .sekce img{
         padding: 0;
         max-width: 65% !important;
