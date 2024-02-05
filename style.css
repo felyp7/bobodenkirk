@@ -110,11 +110,37 @@ footer {
     margin: 1.1%;
 }
 
+.quotes {
+    text-align: center;
+    display: block;
+}
+.quotes p {
+    font-family: Roboto;
+    color: white;
+    margin: 0 auto;
+    width: 50%;
+    font-size: 20px;
+    padding-top: 60px;
+}
+
+.quotes h1{
+    font-family: DancingScript;
+    color: white;
+    padding-bottom: 60px;
+}
 
 @media screen and (max-width: 450px) {
     body {
         background-image: none;
         background-color: rgb(32, 32, 32);
+    }
+
+    .quotes p {
+        font-size: 15px;
+    }
+
+    .quotes h1{
+        font-size: 30px;
     }
 
     .bar{
@@ -336,6 +362,9 @@ footer {
         height: 500px;
     }
 
+    .header-large h1{
+        font-size: 70px;
+    }
 
     
 }
